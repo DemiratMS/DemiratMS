@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemiratMS
+- 👋 Hi, I’m @demiratms
 - 👀 I’m interested in coding, building rc models and tinkering :)
 - 🌱 I’m currently learning Javascript & React
 - 📫 How to reach me on twitter with same username :)
