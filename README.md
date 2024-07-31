@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demiratms
 - 👀 I’m interested in coding, building rc models and tinkering :)
 - 🌱 I’m currently learning Javascript & React
-- 📫 How to reach me on twitter with same username :)
+- 📫 Reach me on X with same username :)
 
 <!---
 DemiratMS/DemiratMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
